@@ -9,23 +9,23 @@
 # Define a function pop() to remove the last element from the list using the pop() method.
 # Call all the functions in sequence and display the updated list after removing the last element.
 #Q2 
-# c=[]
-# def char():
+c=[]
+def char():
    
-#     no=int(input("Enter thr no  : "))
-#     for i in range(no):
-#         ch=input("enter thr char : ")
-#         c.append(ch)
+    no=int(input("Enter thr no  : "))
+    for i in range(no):
+        ch=input("enter thr char : ")
+        c.append(ch)
         
         
-# def dis():
-#     print(c)
+def dis():
+    print(c)
 
-# def pop():
-#     c.pop()
-#     print(c)
+def pop():
+    c.pop()
+    print(c)
     
     
-# char()
-# dis()
-# pop()
+char()
+dis()
+pop()
